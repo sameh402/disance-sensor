@@ -1,0 +1,5 @@
+{
+  "name": "SonicSight",
+  "description": "Real-time ultrasonic sensor distance visualization dashboard connected to Firebase.",
+  "requestFramePermissions": []
+}
